@@ -4,7 +4,7 @@
 **Contributors:**
 * August B. Tollerup (s204139) - [@4ug-aug](https://github.com/4ug-aug)
 * Phillip C. Højbjerg (s184984) - [@PhillipHoejbjerg](https://github.com/PhillipHoejbjerg)
-* Jonas R. Gjerris (s184202)
+* Jonas R. Gjerris (s184202) - [@JonasGRG](https://github.com/JonasGRG)
 * Line S. M. Petersen (s193973) - [@LineSelma](https://github.com/LineSelma)
 
 This project code is self contained, albeit depends on the dataset `Trips_2018.csv` as provided by the course.
