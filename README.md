@@ -1,5 +1,11 @@
 # 42577-IBA-Project
-Project for [Introduction to Business Analytics](https://kurser.dtu.dk/course/42577) at Technical University of Denmark.
+> Project for [Introduction to Business Analytics](https://kurser.dtu.dk/course/42577) at Technical University of Denmark.
+
+**Contributors:**
+* August B. Tollerup (s204139) - [@4ug-aug](https://github.com/4ug-aug)
+* Phillip C. Højbjerg (s184984) - [@PhillipHoejbjerg](https://github.com/PhillipHoejbjerg)
+* Jonas R. Gjerris (s184202)
+* Line S. M. Petersen (s193973) - [@LineSelma](https://github.com/LineSelma)
 
 This project code is self contained, albeit depends on the dataset `Trips_2018.csv` as provided by the course.
 
