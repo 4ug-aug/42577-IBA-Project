@@ -12,4 +12,7 @@ This project code is self contained, albeit depends on the dataset `Trips_2018.c
 > [!TIP]
 > It is recommended to create a python virtual environment with `python -m venv venv` and install the requirements.txt with `python -m pip install -r requirements.txt`.
 
-Simply run the `project_second_draft.ipynb` from top to bottom. 
+> [!WARNING]
+> In the explorative analysis a pickle file is created for the dictionary of distances and should only be run once, or not at all if the pickle file is acquired already.
+
+Run the `project_second_draft.ipynb` from top to bottom. 
